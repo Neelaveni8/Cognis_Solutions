@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Github	</title>
-	<atom:link href="https://github.com/Neelaveni8/Cognis_Solutions/github/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/Neelaveni8/Cognis_Solutions/github/</link>
+	<atom:link href="https://neelaveni8.github.io/Cognis_Solutions/github/feed/" rel="self" type="application/rss+xml" />
+	<link>https://neelaveni8.github.io/Cognis_Solutions/github/</link>
 	<description>Learning Management System</description>
 	<lastBuildDate>Thu, 18 May 2023 05:52:39 +0000</lastBuildDate>
 	<sy:updatePeriod>

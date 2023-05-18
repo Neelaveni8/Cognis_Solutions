@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Courses &#8211; Cognis Solutions</title>
-	<atom:link href="https://github.com/Neelaveni8/Cognis_Solutions/courses/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/Neelaveni8/Cognis_Solutions</link>
+	<atom:link href="https://neelaveni8.github.io/Cognis_Solutions/courses/feed/" rel="self" type="application/rss+xml" />
+	<link>https://neelaveni8.github.io/Cognis_Solutions</link>
 	<description>Learning Management System</description>
 	<lastBuildDate>Mon, 08 May 2023 12:31:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,11 +21,11 @@
 	<generator>https://wordpress.org/?v=6.2.1</generator>
 	<item>
 		<title>Microsoft 365 Ultimate Guide</title>
-		<link>https://github.com/Neelaveni8/Cognis_Solutions/courses/microsoft-365-ultimate-guide/</link>
+		<link>https://neelaveni8.github.io/Cognis_Solutions/courses/microsoft-365-ultimate-guide/</link>
 		
 		<dc:creator><![CDATA[Pandit]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 11:38:47 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/Neelaveni8/Cognis_Solutions/?post_type=courses#038;p=20</guid>
+				<guid isPermaLink="false">https://neelaveni8.github.io/Cognis_Solutions/?post_type=courses#038;p=20</guid>
 
 					<description><![CDATA[Have you always wanted to learn Microsoft 365 but don&#8217;t know where to start? Would you like to]]></description>
 										<content:encoded><![CDATA[<div data-purpose="safely-set-inner-html:course-taking:course-description">
