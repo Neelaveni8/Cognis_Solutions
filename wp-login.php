@@ -72,7 +72,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 /*  */</script>
 <script type="text/javascript" src="https://neelaveni8.github.io/Cognis_Solutions/wp-includes/js/wp-util.min.js?ver=6.2.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">/*  */
-var userProfileL10n = {"user_id":"0","nonce":"024f35c846"};
+var userProfileL10n = {"user_id":"0","nonce":"1e9c7fafa8"};
 /*  */</script>
 <script type="text/javascript" src="https://neelaveni8.github.io/Cognis_Solutions/wp-admin/js/user-profile.min.js?ver=6.2.1" id="user-profile-js"></script>
 	<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
